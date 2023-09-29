@@ -1,0 +1,14 @@
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\bin\Debug\net6.0\LINQ_Babcock_Olivia.exe
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\bin\Debug\net6.0\LINQ_Babcock_Olivia.deps.json
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\bin\Debug\net6.0\LINQ_Babcock_Olivia.runtimeconfig.json
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\bin\Debug\net6.0\LINQ_Babcock_Olivia.dll
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\bin\Debug\net6.0\LINQ_Babcock_Olivia.pdb
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\obj\Debug\net6.0\LINQ_Babcock_Olivia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\obj\Debug\net6.0\LINQ_Babcock_Olivia.AssemblyInfoInputs.cache
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\obj\Debug\net6.0\LINQ_Babcock_Olivia.AssemblyInfo.cs
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\obj\Debug\net6.0\LINQ_Babcock_Olivia.csproj.CoreCompileInputs.cache
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\obj\Debug\net6.0\LINQ_Babcock_Olivia.dll
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\obj\Debug\net6.0\refint\LINQ_Babcock_Olivia.dll
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\obj\Debug\net6.0\LINQ_Babcock_Olivia.pdb
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\obj\Debug\net6.0\LINQ_Babcock_Olivia.genruntimeconfig.cache
+C:\Users\OliviaBabcock\source\repos\LINQ_Babcock_Olivia\LINQ_Babcock_Olivia\obj\Debug\net6.0\ref\LINQ_Babcock_Olivia.dll
